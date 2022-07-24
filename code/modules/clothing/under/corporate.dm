@@ -239,3 +239,10 @@
 	icon_state = "suit_zeng"
 	worn_state = "suit_zeng"
 	starting_accessories = list(/obj/item/clothing/accessory/toggleable/corpjacket/zeng, /obj/item/clothing/accessory/corptie/zeng)
+
+//Lima Laboratories
+/obj/item/clothing/under/rank/scientist/lima
+	name = "\improper Lima polo and pants"
+	item_icons = list(slot_w_uniform_str = 'icons/mob/onmob/onmob_under_corporate.dmi')
+	icon_state = "limalab"
+	worn_state = "science_lima"

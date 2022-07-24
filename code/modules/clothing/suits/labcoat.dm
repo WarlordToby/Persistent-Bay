@@ -198,3 +198,10 @@
 	icon_open = "resomi_labcoat_open"
 	icon_closed = "labcoat_labcoat_closed"
 	species_restricted = list(SPECIES_RESOMI)
+
+/obj/item/clothing/suit/storage/toggle/labcoat/lima
+	name = "\improper Lima labcoat"
+	desc = "A sleek labcoat worn by Lima Laboratories science department. It has a neat hanging bit."
+	icon_state = "labcoat_lima"
+	icon_open = "labcoat_lima"
+	icon_closed = "labcoat_lima_closed"

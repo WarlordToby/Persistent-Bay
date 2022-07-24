@@ -106,6 +106,11 @@
 	id = "heph"
 	build_path = /obj/item/clothing/under/hephaestus
 
+/datum/design/item/autotailor/under/jumpsuit/lima
+	name = "Blue and Brown Uniform"
+	id = "lima"
+	build_path = /obj/item/clothing/under/lima
+
 /datum/design/item/autotailor/under/jumpsuit/white_generic	//can use custom colors
 	name = "Generic jumpsuit - white"
 	id = "white_generic"
@@ -911,6 +916,11 @@
 
 
 
+/datum/design/item/autotailor/under/dressclothes/dress_cut
+	name = "cut dress - white"
+	id = "dress_cut"
+	build_path = /obj/item/clothing/under/dress_cut
+	materials = list (MATERIAL_ LEATHER = 15000, MATERIAL_PHORON = 8000)
 
 /datum/design/item/autotailor/under/dressclothes/purple_bride
 	name = "bridesmaid dress - purple"
@@ -1846,6 +1856,12 @@
 	name = "Labcoat coat - RD"
 	id = "coatlab_rd"
 	build_path = /obj/item/clothing/suit/storage/toggle/labcoat/rd
+	materials = list(MATERIAL_LEATHER = 10000, MATERIAL_PHORON = 5000)
+
+/datum/design/item/autotailor/suit/work/coatlab_lima
+	name = "Labcoat coat - Lima"
+	id = "coatlab_lima"
+	build_path = /obj/item/clothing/suit/storage/toggle/labcoat/lima
 	materials = list(MATERIAL_LEATHER = 10000, MATERIAL_PHORON = 5000)
 
 /datum/design/item/autotailor/suit/work/jacket_cap

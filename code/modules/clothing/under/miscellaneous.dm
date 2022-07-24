@@ -357,6 +357,12 @@
 	item_state = "p_suit"
 	worn_state = "dress_saloon"
 
+/obj/item/clothing/under/dress/cut
+	name = "cut dress"
+	desc = "A beautiful white dress with a cut across the thigh."
+	icon_state = "dress_cut"
+	item_state = "p_suit"
+	worn_state = "dress_cut"
 
 /obj/item/clothing/under/dress/dress_cap
 	name = "captain's dress uniform"
